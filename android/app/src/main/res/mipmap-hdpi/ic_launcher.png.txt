@@ -1,0 +1,3 @@
+# This is a placeholder. In a real Flutter project, this would be a PNG image file.
+# Use flutter_launcher_icons package to generate proper launcher icons.
+# Run: flutter pub run flutter_launcher_icons:main
